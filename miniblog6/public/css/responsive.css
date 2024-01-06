@@ -1,0 +1,135 @@
+@media(max-width: 576px){
+/* Background Part Start */
+.bg-img{
+    padding-top: 80px !important;
+}
+/* Background Part End */
+/* Who Part Start */
+.who-part .container{
+    width: 100% !important;
+}
+/* Who Part End */
+/* We Part Start */
+.we-part .container{
+    width: 100% !important;
+}
+.we-con {
+    padding: 20px 0 !important;
+  }
+/* We Part End */
+/* First Part Start */
+.first-part .container{
+    width: 100% !important;
+}
+/* First Part End */
+/* What Part Start */
+.what-part .container{
+    width: 100% !important;
+}
+.what-con {
+    padding: 30px 0 !important;
+  }
+/* What Part End */
+/* Lorem Part Start */
+.lorem-part .container{
+    width: 100% !important;
+}
+/* Lorem Part End */
+/* Nature Part Start */
+.nature-con {
+    padding-bottom: 50px !important;
+  }
+.nature-img {
+    margin-left: -25px !important;
+    margin-right: 0px !important;
+  }
+/* Nature Part End */
+/* Buy Part Start */
+.buy-part .container{
+    width: 100% !important;
+}
+.buy-con {
+    padding-bottom: 140px !important;
+    padding-top: 180px !important;
+  }
+/* Buy Part End */
+/* Something Part Start */
+.something-con p {
+    padding: 0 0px !important;
+  }
+/* Something Part End */
+/* Date Part Start */
+.date-part .container{
+    width: 100% !important;
+}
+.date-con h5 {
+    padding-top: 20px !important;
+  }
+/* Date Part End */
+/* Text Part Start */
+.text-part .container{
+    width: 100% !important;
+}
+/* Text Part End */
+/* Footer Part Start */
+.footer-part .container{
+    width: 100% !important;
+}
+.footer-menu{
+    padding-top: 30px !important;
+}
+/* Footer Part End */
+}
+@media(max-width: 768px){
+/* Background Part Start */
+.bg-part .container{
+    width: 100% !important;
+}
+.bg-img img{
+    width: 305px !important;
+}
+/* Background Part End */
+/* Nature Part Start */
+.nature-con {
+    padding-left: 20px !important;
+  }
+.nature-con h5 {
+    font-size: 20px !important;
+  }
+/* Nature Part End */
+}
+@media(max-width: 992px){
+/* Navbar Part Start */
+.navbar-light .navbar-toggler {
+    color: rgb(251, 251, 251) !important;
+    border-color: rgb(251, 251, 251) !important;
+  }
+.navbar-toggler {
+    background-color: #fff;
+  }
+.nav-item{
+    text-align: center !important;
+}
+/* Navbar Part End */
+/* Nature Part Start */
+.nature-con h5 {
+    padding-top: 70px !important;
+  }
+/* Nature Part End */
+/* Something Part Start */
+.something-con {
+    padding-top: 80px !important;
+  }
+.something-img {
+    padding-top: 80px !important;
+  }
+/* Something Part End */
+/* Footer Part Start */
+.footer-con p {
+    padding-right: 0px !important;
+  }
+/* Footer Part End */
+}
+@media(max-width: 1200px){
+
+}
